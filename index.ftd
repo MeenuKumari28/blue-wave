@@ -232,7 +232,6 @@ optional body body:
 children container: 
 
 -- ftd.column:
-color: $inherited.colors.text
 width: fill-container
 padding-horizontal.px: 32
 
@@ -243,7 +242,6 @@ spacing: space-between
 -- ftd.column:
 padding-top.px: 125
 width.fixed.percent: 20
-color: $inherited.colors.text-strong
 
 -- ftd.row:
 if: { article-card-desktop.author != NULL }
@@ -277,7 +275,6 @@ color: $inherited.colors.text
 
 -- ftd.column:
 width.fixed.percent: 70
-color: $inherited.colors.text
 spacing.fixed.px: 24
 
 -- ftd.text: $article-card-desktop.title
@@ -291,20 +288,21 @@ align-content: center
 -- ftd.column:
 height.fixed.px: 15
 border-right-width.px: 1
-border-color: $inherited.colors.shadow
+border-color: $inherited.colors.border
 
 -- end: ftd.column
 
 -- ftd.text: $article-card-desktop.timestamp
 role: $inherited.types.copy-small
 style: semi-bold
-color: $inherited.colors.shadow
+color: $inherited.colors.text
 
 -- end: ftd.row
 
 -- ftd.text:
 if: { article-card-desktop.body != NULL }
 role: $inherited.types.copy-regular
+color: $inherited.colors.text
 
 $article-card-desktop.body
 
@@ -340,7 +338,6 @@ optional body body:
 children container:
 
 -- ftd.column:
-color: $inherited.colors.text
 width: fill-container
 spacing.fixed.px: 32
 padding-horizontal.px: 24
@@ -356,14 +353,14 @@ align-content: center
 -- ftd.column:
 height.fixed.px: 15
 border-right-width.px: 1
-border-color: $inherited.colors.shadow
+border-color: $inherited.colors.border
 
 -- end: ftd.column
 
 -- ftd.text: $article-card-mobile.timestamp
 role: $inherited.types.copy-small
 style: semi-bold
-color: $inherited.colors.shadow
+color: $inherited.colors.text
 
 -- end: ftd.row
 
