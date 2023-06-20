@@ -1,40 +1,833 @@
--- my-ds.page: Welcome to doc-site
+-- import: meenukumari28.github.io/blue-wave/common
+-- import: meenukumari28.github.io/blue-wave/blog-articles/sample-post-1
+-- import: fastn/processors as pr
 
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
-
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
-
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
-
--- ds.h3: 🚀 Fast Track 
-
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
-
--- ds.h3: 🌟 Whats next?
-
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/page/).
-
--- ds.h3: 👀 Want to learn more?
-
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
 
 
--- ds.h3: 🎯 Used by?
 
-Our all documentation sites uses this `doc-site` theme.
+-- my-ds.page:
+sidebar: false
+full-width: true
 
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
+-- post:
+meta: $sample-post-1.meta1
 
--- ds.h2: Learn fastn and become a pro?
+-- ds.markdown:
 
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+Lorem ipsum dolor sit amet. Est voluptatem esse ea repellat facere ut itaque
+labore ex quaerat error et distinctio reiciendis? Quo praesentium sapiente vel
+soluta assumenda et omnis doloremque est beatae voluptatem! 
+
+-- ds.h2: 1.Working remotely as a digital nomad in Honduras
+
+-- ds.markdown:
+
+Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias galisum! In
+laborum animi eum repellat ullam non temporibus delectus.Eos libero natus est
+minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+-- ds.h2: 2.Roatan Island as a digital nomad base
+
+-- ds.markdown:
+
+Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias galisum! In
+laborum animi eum repellat ullam non temporibus delectus.Eos libero natus est
+minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! 
+
+In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid.
+
+Quo praesentium sapiente vel soluta assumenda et omnis doloremque est beatae
+voluptatem! Eum delectus dolorum et animi consectetur est asperiores tempore
+rem inventore nihil.Quo praesentium sapiente vel soluta assumenda et omnis
+doloremque est beatae voluptatem! Eum delectus dolorum et animi consectetur est
+asperiores tempore rem inventore nihil.Quo praesentium sapiente vel soluta
+assumenda et omnis doloremque est beatae voluptatem! Eum delectus dolorum et
+animi consectetur est asperiores tempore rem inventore nihil.
+
+-- ds.image:
+src: $assets.files.assets.card3.svg
+
+-- ds.markdown:
+
+`Activities in Roatan`
+
+Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias galisum! In
+laborum animi eum repellat ullam non temporibus delectus.Eos libero natus est
+minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! 
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid.
+
+-- ds.h2: 3.Coworking in Roatan
+
+-- ds.markdown:
+
+In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid.
+
+-- ds.image:
+src: $assets.files.assets.card4.svg
+
+-- ds.markdown:
+
+Along with fast Wifi and great amenities, Beach Desk had incredible views of the
+Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias galisum! In
+laborum animi eum repellat ullam non temporibus delectus.Eos libero natus est
+minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum!
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+- In laborum animi eum repellat ullam non temporibus delectus.
+
+-- ds.h2: 4.Wrap-Up: Life as a Digital Nomad in Roatan
+
+-- ds.image:
+src: $assets.files.assets.card2.svg
+
+-- ds.markdown:
+
+Quo praesentium sapiente vel soluta assumenda et omnis doloremque est beatae
+voluptatem! Eum delectus dolorum et animi consectetur est asperiores tempore
+rem inventore nihil.Quo praesentium sapiente vel soluta assumenda et omnis
+doloremque est beatae voluptatem! Eum delectus dolorum et animi consectetur est
+asperiores tempore rem inventore nihil.Quo praesentium sapiente vel soluta
+assumenda et omnis doloremque est beatae voluptatem! Eum delectus dolorum et
+animi consectetur est asperiores tempore rem inventore nihil.
+
+-- end: post
 
 -- end: my-ds.page
+
+
+
+
+
+
+
+
+
+
+-- component post:
+common.post-meta meta:
+children container:
+optional boolean sidebar: false
+ftd.ui list right-sidebar:
+
+-- ftd.column:
+width: fill-container
+
+-- article-card: $post.meta.title
+author: $post.meta.author
+timestamp: $post.meta.timestamp
+container: $post.container
+
+$post.meta.body
+
+-- end: ftd.column
+
+-- end: post
+
+
+
+
+
+
+
+
+
+
+-- component article-card:
+caption title:
+common.author-meta author:
+string timestamp:
+optional body body:
+children container:
+
+-- ftd.column:
+
+-- ftd.desktop:
+
+-- article-card-desktop: $article-card.title
+author: $article-card.author
+timestamp: $article-card.timestamp
+body: $article-card.body
+container: $article-card.container
+
+-- end: ftd.desktop
+
+-- ftd.mobile:
+
+-- article-card-mobile: $article-card.title
+author: $article-card.author
+timestamp: $article-card.timestamp
+body: $article-card.body
+container: $article-card.container
+
+-- end: ftd.mobile
+
+-- end: ftd.column
+
+-- end: article-card
+
+
+
+
+
+
+
+
+
+
+-- component article-card-desktop:
+caption title:
+common.author-meta author:
+string timestamp:
+optional body body:
+children container: 
+
+-- ftd.column:
+color: $inherited.colors.text
+width: fill-container
+padding-horizontal.px: 32
+
+-- ftd.row:
+width: fill-container
+spacing: space-between
+
+-- ftd.column:
+padding-top.px: 125
+width.fixed.percent: 20
+color: $inherited.colors.text-strong
+
+-- ftd.row:
+if: { article-card-desktop.author != NULL }
+align-content: center
+spacing.fixed.px: 16
+
+-- ftd.image:
+if: { article-card-desktop.author.image != NULL }
+src: $article-card-desktop.author.image
+width.fixed.px: 44
+
+-- ftd.column:
+spacing.fixed.px: 4
+
+-- ftd.text: $article-card-desktop.author.title
+if: { article-card-desktop.author.title != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text-strong
+link: $article-card-desktop.author.bio-url
+
+-- ftd.text: $article-card-desktop.author.profile
+if: { article-card-desktop.author.profile != NULL }
+role: $inherited.types.copy-small
+color: $inherited.colors.text
+
+-- end: ftd.column
+
+-- end: ftd.row
+
+-- end: ftd.column
+
+-- ftd.column:
+width.fixed.percent: 70
+color: $inherited.colors.text
+spacing.fixed.px: 24
+
+-- ftd.text: $article-card-desktop.title
+role: $inherited.types.heading-large
+color: $inherited.colors.text-strong
+
+-- ftd.row:
+spacing.fixed.px: 16
+align-content: center
+
+-- ftd.column:
+height.fixed.px: 15
+border-right-width.px: 1
+border-color: $inherited.colors.shadow
+
+-- end: ftd.column
+
+-- ftd.text: $article-card-desktop.timestamp
+role: $inherited.types.copy-small
+style: semi-bold
+color: $inherited.colors.shadow
+
+-- end: ftd.row
+
+-- ftd.text:
+if: { article-card-desktop.body != NULL }
+role: $inherited.types.copy-regular
+
+$article-card-desktop.body
+
+-- ftd.column:
+children: $article-card-desktop.container
+width: fill-container
+spacing.fixed.px: 24
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- end: ftd.row
+
+-- end: ftd.column
+
+-- end: article-card-desktop
+
+
+
+
+
+
+
+
+
+
+-- component article-card-mobile:
+caption title:
+common.author-meta author:
+string timestamp:
+optional body body:
+children container:
+
+-- ftd.column:
+color: $inherited.colors.text
+width: fill-container
+spacing.fixed.px: 32
+padding-horizontal.px: 24
+
+-- ftd.text: $article-card-mobile.title
+role: $inherited.types.heading-hero
+color: $inherited.colors.text-strong
+
+-- ftd.row:
+spacing.fixed.px: 16
+align-content: center
+
+-- ftd.column:
+height.fixed.px: 15
+border-right-width.px: 1
+border-color: $inherited.colors.shadow
+
+-- end: ftd.column
+
+-- ftd.text: $article-card-mobile.timestamp
+role: $inherited.types.copy-small
+style: semi-bold
+color: $inherited.colors.shadow
+
+-- end: ftd.row
+
+-- ftd.row:
+if: { article-card-mobile.author != NULL }
+align-content: center
+spacing.fixed.px: 16
+
+-- ftd.image:
+if: { article-card-mobile.author.image != NULL }
+src: $article-card-mobile.author.image
+width.fixed.px: 44
+
+-- ftd.column:
+spacing.fixed.px: 4
+
+-- ftd.text: $article-card-mobile.author.title
+if: { article-card-mobile.author.title != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text-strong
+link: $article-card-mobile.author.bio-url
+
+-- ftd.text: $article-card-mobile.author.profile
+if: { article-card-mobile.author.profile != NULL }
+role: $inherited.types.copy-small
+color: $inherited.colors.text
+
+-- end: ftd.column
+
+-- end: ftd.row
+
+-- ftd.text:
+if: { article-card-mobile.body != NULL }
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+width: fill-container
+
+$article-card-mobile.body
+
+-- ftd.column:
+children: $article-card-mobile.container
+width: fill-container
+spacing.fixed.px: 24
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- end: article-card-mobile
+
+
+
+
+
+
+
+
+
+
+-- component footer:
+string copyright: Copyright ©2022. Fastn Inc.
+optional ftd.image-src site-logo: 
+integer logo-width: $common.logo-width
+integer logo-height: $common.logo-height
+optional string site-url: $common.site-url
+optional string site-name: 
+pr.toc-item list footer-links: $common.footer-toc.sections
+optional body body:
+
+-- ftd.column:
+width: fill-container
+
+-- ftd.desktop:
+
+-- footer-desktop:
+copyright: $footer.copyright
+site-logo: $footer.site-logo
+logo-width: $footer.logo-width
+logo-height: $footer.logo-height
+site-url: $footer.site-url
+site-name: $footer.site-name
+footer-links: $footer.footer-links
+body: $footer.body
+
+-- end: ftd.desktop
+
+-- ftd.mobile:
+
+-- footer-mobile:
+copyright: $footer.copyright
+site-logo: $footer.site-logo
+logo-width: $footer.logo-width
+logo-height: $footer.logo-height
+site-url: $footer.site-url
+site-name: $footer.site-name
+footer-links: $footer.footer-links
+body: $footer.body
+
+-- end: ftd.mobile
+
+-- end: ftd.column
+
+-- end: footer
+
+
+
+
+
+
+
+
+
+
+-- component footer-desktop:
+optional body body: 
+string copyright:
+optional ftd.image-src site-logo: 
+integer logo-width: 
+integer logo-height: 
+optional string site-url: 
+optional string site-name:
+pr.toc-item list footer-links: 
+
+-- ftd.row:
+border-color: $inherited.colors.border
+border-top-width.px: 1
+width: fill-container
+align-content: center
+
+-- ftd.row:
+max-width.fixed.percent: 85
+width: fill-container
+align-self: center
+padding-top.px: 42
+padding-bottom.px: 62
+color: $inherited.colors.text
+background.solid: $inherited.colors.background.base
+spacing: space-between
+
+-- ftd.column:
+
+-- ftd.row:
+link: $footer-desktop.site-url
+align-content: center
+margin-bottom.px: 24
+
+-- ftd.image:
+if: { footer-desktop.site-logo != NULL }
+src: $footer-desktop.site-logo
+width.fixed.px: $footer-desktop.logo-width
+height.fixed.px: $footer-desktop.logo-height
+align-self: center
+
+-- ftd.text: $footer-desktop.site-name
+if: { footer-desktop.site-name != NULL }
+role: $inherited.types.heading-medium
+color: $inherited.colors.text-strong
+white-space: nowrap
+align-self: center
+
+-- fallback-title:
+if: { footer-desktop.site-logo == NULL }
+site-name: $footer-desktop.site-name
+
+-- end: ftd.row
+
+-- ftd.text:
+if: { footer-desktop.body != NULL }
+role: $inherited.types.copy-small
+width: fill-container
+max-width.fixed.percent: 50
+margin-bottom.px: 24
+
+$footer-desktop.body
+
+-- ftd.text: $footer-desktop.copyright
+role: $inherited.types.fine-print
+width: fill-container
+
+-- end: ftd.column
+
+-- ftd.row:
+width.fixed.percent: 70
+spacing: space-between
+
+-- footer-list: $obj.title
+url: $obj.url
+is-active: $obj.is-active
+children: $obj.children
+$loop$: $footer-desktop.footer-links as $obj
+
+-- end: ftd.row
+
+-- end: ftd.row
+
+-- end: ftd.row
+
+-- end: footer-desktop
+
+
+
+
+
+
+
+
+
+
+-- component footer-list:
+caption title:
+optional string url:
+boolean is-active:
+pr.toc-item list children:
+
+-- ftd.column:
+spacing.fixed.px: 6
+
+-- ftd.text: $footer-list.title
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+link: $footer-list.url
+width: fill-container
+style: bold
+
+-- footer-list-child: $obj.title
+if: { !ftd.is_empty(footer-list.children) }
+url: $obj.url
+is-active: $obj.is-active
+children: $obj.children
+$loop$: $footer-list.children as $obj
+
+-- end: ftd.column
+
+-- end: footer-list
+
+
+
+
+
+
+
+
+
+
+-- component footer-list-child:
+caption title:
+optional string url:
+boolean is-active:
+pr.toc-item list children:
+
+-- ftd.column:
+
+-- ftd.text: $footer-list-child.title
+role: $inherited.types.copy-regular
+color: $inherited.colors.text
+link: $footer-list-child.url
+width: fill-container
+
+-- footer-list-child: $obj.title
+if: { !ftd.is_empty(footer-list-child.children) }
+url: $obj.url
+is-active: $obj.is-active
+children: $obj.children
+$loop$: $footer-list-child.children as $obj
+
+-- end: ftd.column
+
+-- end: footer-list-child
+
+
+
+
+
+
+
+
+
+
+-- component footer-mobile:
+optional body body:
+string copyright: 
+optional ftd.image-src site-logo: 
+integer logo-width: 
+integer logo-height:
+optional string site-url: 
+optional string site-name: 
+pr.toc-item list footer-links: 
+common.social-media list social-links:
+
+-- ftd.column:
+width: fill-container
+padding-top.px: 48
+padding-bottom.px: 84
+color: $inherited.colors.text
+padding-horizontal.px: 24
+
+-- footer-mobile-list: $obj.title
+url: $obj.url
+is-active: $obj.is-active
+children: $obj.children
+$loop$: $footer-mobile.footer-links as $obj
+
+-- ftd.row:
+link: $footer-mobile.site-url
+align-content: center
+margin-vertical.px: 24
+
+-- ftd.image:
+if: { footer-mobile.site-logo != NULL }
+src: $footer-mobile.site-logo
+width.fixed.px: $footer-mobile.logo-width
+height.fixed.px: $footer-mobile.logo-height
+align-self: center
+
+-- ftd.text: $footer-mobile.site-name
+if: { footer-mobile.site-name != NULL }
+role: $inherited.types.heading-medium
+color: $inherited.colors.text
+white-space: nowrap
+align-self: center
+
+-- fallback-title:
+if: { footer-mobile.site-logo == NULL }
+site-name: $footer-mobile.site-name
+
+-- end: ftd.row
+
+-- ftd.text:
+if: { footer-mobile.body != NULL }
+role: $inherited.types.copy-small
+width: fill-container
+margin-bottom.px: 24
+
+$footer-mobile.body
+
+-- ftd.text: $footer-mobile.copyright
+role: $inherited.types.fine-print
+width: fill-container
+
+-- end: ftd.column
+
+-- end: footer-mobile
+
+
+
+
+
+
+
+
+
+
+-- component footer-mobile-list:
+caption title:
+string url:
+boolean $shows-data: false
+boolean is-active: false
+pr.toc-item list children: 
+
+-- ftd.column:
+width: fill-container
+spacing.fixed.px: 14
+
+-- ftd.column:
+border-color: $inherited.colors.border-strong
+border-bottom-width.px: 1
+width: fill-container
+padding-vertical.px: 16
+padding-horizontal.px: 16
+
+-- ftd.row:
+width: fill-container
+
+-- ftd.text: $footer-mobile-list.title
+role: $inherited.types.heading-tiny
+width: fill-container
+color: $inherited.colors.text-strong
+link: $footer-mobile-list.url
+
+-- ftd.image:
+if: { footer-mobile-list.shows-data }
+src: $assets.files.assets.drop-up.svg
+width.fixed.px: 16
+$on-click$: $ftd.toggle($a= $footer-mobile-list.shows-data)
+align-self: center
+
+-- ftd.image:
+if: { !footer-mobile-list.shows-data }
+src: $assets.files.assets.drop-down.svg
+width.fixed.px: 16
+$on-click$: $ftd.toggle($a= $footer-mobile-list.shows-data)
+align-self: center
+
+-- end: ftd.row
+
+-- ftd.column:
+if: { footer-mobile-list.shows-data }
+spacing.fixed.px: 14
+margin-top.px: 24
+
+-- footer-list-toc: 
+title: $obj.title
+url: $obj.url
+is-active: $obj.is-active
+children: $obj.children
+$loop$: $footer-mobile-list.children as $obj
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- end: footer-mobile-list
+
+
+
+
+
+
+
+
+
+
+-- component footer-list-toc:
+caption title:
+optional string url: index.html
+boolean is-active: false
+children wrap:
+pr.toc-item list children: 
+
+-- ftd.column:
+role: $inherited.types.copy-regular
+
+-- ftd.text: $footer-list-toc.title
+color: $inherited.colors.text
+link: $footer-list-toc.url
+width: fill-container
+white-space: nowrap
+margin-bottom.px: 12
+
+-- end: ftd.column
+
+-- end: footer-list-toc
+
+
+
+
+
+
+
+
+
+
+-- component fallback-title:
+optional string site-name:
+
+-- ftd.row:
+
+-- ftd.text: LOGO
+if: { fallback-title.site-name == NULL }
+role: $inherited.types.heading-large
+color: $inherited.colors.text
+
+-- end: ftd.row
+
+-- end: fallback-title

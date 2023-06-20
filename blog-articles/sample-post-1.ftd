@@ -1,0 +1,13 @@
+-- import: meenukumari28.github.io/blue-wave/common
+-- import: meenukumari28.github.io/blue-wave/blog-authors/patrica as author
+
+-- common.post-meta meta1: Lorem ipsum dolor sit amet, consectetur adipisci elit
+tag: Product
+author: $author.patrica
+timestamp: April 24, 2023
+post-url: /blog-articles/sample-post-1/
+
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor
+incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex
+ea commodi consequatur. Quis reprehenderit in
