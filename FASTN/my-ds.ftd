@@ -32,6 +32,7 @@ document-title: $page.document-title
 document-description: $page.document-description
 document-image: $page.document-image
 blog: $page.blog
+colors: $cs.main
 hero: $page.hero
 github-url: https://github.com/fastn-community/color-pop/
 github-icon: true
